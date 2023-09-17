@@ -1,0 +1,29 @@
+{
+  "name": "blog_express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon  app/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1",
+    "sqlstring": "^2.3.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Unknown-Developer/blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/The-Unknown-Developer/blog/issues"
+  },
+  "homepage": "https://github.com/The-Unknown-Developer/blog#readme",
+  "description": ""
+}
